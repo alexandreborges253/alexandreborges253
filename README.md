@@ -1,9 +1,9 @@
 <h1 align="center">OI 👋, eu sou Alexandre Brito</h1>
 <h3 align="center">Sou apaixonado por análise de dados e desenvolvimento com diversas linguagens de programação</h3>
 
-- 🔭Atualmente estou trabalhando como **analista de dados**
+- 🔭Atualmente estou trabalhando como **Analista de Dados**
 
-- 🌱 Atualmente estou aprendendo **Python, PHP orientado a objetos, pós graduando em Cybersecurity.**
+- 🌱 Atualmente estou aprendendo **Python, PHP orientado a objetos. Graduado em Analise e desenvolvimento de sistemas, pós graduando em Cybersecurity.**
 
 - 💬 Me pergunte sobre **PHP, mysql, python, sqlServer, Linux e segurança de dados.**
 
